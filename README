@@ -1,0 +1,6 @@
+Generate refresh token: https://developers.google.com/oauthplayground/?code=4/0AQlEd8zdIqWO2YPVxKlTdk8KGZI9KK7P78WxLxt8jUk-7xteSYX-IJjyCr065_p06cHZOA&scope=https://mail.google.com/
+Generate client id and secret: https://console.cloud.google.com/apis/credentials?project=gleaming-realm-435707-a4
+
+1. Run npm install to install relevant dependencies
+2. Run node script.js to run script
+
